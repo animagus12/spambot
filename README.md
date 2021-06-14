@@ -4,7 +4,7 @@ A simple program which uses pyautogui to spam messages in any messaging app! It'
 ### How to use:
 
 ## Step 1 
-Install a IDE(i.e PyCharm, VisualStudio or anything similar)
+Install a IDE for python.(i.e PyCharm, VisualStudio or anything similar)
 
 ## Step 2
 Install autogui
